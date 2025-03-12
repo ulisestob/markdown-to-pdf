@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.21.2",
     "markdown-pdf": "^11.0.0",
+    "phantomjs-prebuilt": "^2.1.16",
     "uuid": "^11.1.0"
   }
 }
